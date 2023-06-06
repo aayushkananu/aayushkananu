@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/aayushkananu/aayushkananu/main/"logo-image.png" style="padding:5px;">
-<h1 align="center"> Hey there! I'm Aayushka Budhathoki. 👨‍💻</h1>
+<img src="logo-image.png" style="padding:5px;">
+<h1 align="center"> Hey there! I'm Aayushka Budhathoki. </h1>
 
 <h3 align="center">An Impassioned Deep Learning & Machine Learning Practitioner and Learner from Washington, DC.</h3>
 
