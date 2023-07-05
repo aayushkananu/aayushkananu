@@ -1,5 +1,5 @@
 <img src="logo-image.png" style="padding:5px;">
-<h1 align="center"> hey there! i'm aayushka budhathoki. </h1>
+<h1 align="center"> hey there! i'm ^^^^^^^^ . </h1>
 
 <h3 align="center">passionate deep learning & machine learning woman in STEM from washington, dc.</h3>
 
