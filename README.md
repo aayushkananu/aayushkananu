@@ -3,5 +3,5 @@
 
 <h3 align="center">a passionate data analytics & machine learning student from washington, dc.</h3>
 
-~ i'm an undergraduate research student at Howard University Chemical Engineering Lab.<br> ~ i am a rising sophomore at Howard University, diving deep into the world of machine learning, web development, and design.<br> ~ fun fact: currently mastering the art of speaking Spanish and French. ¡Hola! Bonjour!<br>> want to know more about my learning journey? come hang out on my Learning Path. let's geek out together!
+~ i'm an undergraduate research student at Howard University Chemical Engineering Lab.<br> ~ i am a rising sophomore at Howard University, diving deep into the world of machine learning, web development, and design.<br> ~ fun fact: currently mastering the art of speaking Spanish and French. ¡Hola! Bonjour!<br>> ~ want to know more about my learning journey? come hang out on my Learning Path. let's geek out together!
 
